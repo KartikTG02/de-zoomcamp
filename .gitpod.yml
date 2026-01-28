@@ -1,4 +1,0 @@
-image: gitpod/workspace-full
-tasks:
-  - name: Start Docker
-    command: sudo docker-up
